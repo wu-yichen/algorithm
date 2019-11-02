@@ -10,7 +10,7 @@ func deleteDuplicates(head *ListNode) *ListNode {
 	dummy := current
 	for current != nil && current.Next != nil {
 		nxt := current.Next
-		if nxt.Val == current.Val{
+		if nxt.Val == current.Val {
 			current.Next = nxt.Next
 			continue
 		}
