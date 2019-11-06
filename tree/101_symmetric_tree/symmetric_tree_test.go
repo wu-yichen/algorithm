@@ -1,4 +1,4 @@
-package symmetric_tree
+package _01_symmetric_tree
 
 import (
 	"fmt"

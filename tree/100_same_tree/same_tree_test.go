@@ -1,4 +1,4 @@
-package same_tree
+package _00_same_tree
 
 import "testing"
 

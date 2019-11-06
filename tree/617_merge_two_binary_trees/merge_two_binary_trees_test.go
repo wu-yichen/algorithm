@@ -1,4 +1,4 @@
-package merge_two_binary_trees
+package _17_merge_two_binary_trees
 
 import (
 	"testing"
