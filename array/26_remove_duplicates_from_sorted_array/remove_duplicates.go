@@ -9,7 +9,7 @@ package remove_duplicates_from_sorted_array
 //1,1,2
 //0,0,1,1,1,2,2,3,3,4
 func removeDuplicates(nums []int) int {
-	if nums == nil || len(nums) == 0 {
+	if len(nums) == 0 {
 		return 0
 	}
 	i := 0
